@@ -5,6 +5,13 @@ import com.home_Work_Lesson_6_EX3.arrayTransposition.ArrayTransposition;
 import java.util.Scanner;
 
 public class Launch {
+
+
+  /*  Есть массив целых числел.
+    Необходимо удалить дубликаты из массива и отсортировать.
+    На вход метод будет получать первоначальный массив, на выход метод будет возвращать отсортированный массив без дубликатов.
+     */
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);                                   // Scanner open
         System.out.println("Press number of lines of array: ");
